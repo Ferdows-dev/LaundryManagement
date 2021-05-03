@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205982275974",
+    "project_id": "laundryapp-e4a7b",
+    "storage_bucket": "laundryapp-e4a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205982275974:android:051e17a33c060187747407",
+        "android_client_info": {
+          "package_name": "com.learning.laundrymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205982275974-2m5v4f7kvh846ub9o10s43c9uuusrhuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.laundrymanagement",
+            "certificate_hash": "6a796c7475c879417d472e78976bfd2906aca532"
+          }
+        },
+        {
+          "client_id": "205982275974-gg14svmb744qo56qva7fsmmi1q0u2lp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCa7t1u7dJOYXdJN-Pu4LttSkK6b9mL-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205982275974-gg14svmb744qo56qva7fsmmi1q0u2lp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
